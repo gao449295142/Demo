@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;text-decoration:none;font-family:"微软雅黑";}
+body{overflow:hidden;}
+html{font-size:62.5%;color:#222;}
+.container{height:100%;position:relative;}
+.btn{padding:2rem;background:#ccc;color:#FFF;font-size:2rem;}
+.yhjBox{position:absolute;bottom:-64%;height:60%;background:#FFF;width:100%;text-align:center;padding:2% 0;color:#333;}
+.yhjBox h3{font-size:1.2rem;}
+.yhjBox .yhjStyle{background:#F93;margin:2% 4%;padding:2%;color:#FFF;font-size:1.2rem;}
+.yhjBox .yhjStyle h1{text-align:left;}
+.yhjBox .yhjStyle h1 b{font-size:0.5rem;}
+.yhjBox .yhjStyle p{text-align:left;font-size:0.5rem;}
+.yhjBox .yhjBtn{position:absolute;bottom:0;width:100%;height:6%;background:#ff4141;font-size:1.6rem;color:#FFF;line-height:inherit;}
+.mask{width:100%;height:100%;background:#000;opacity:0.3;position:absolute;filter:(opactity:30);display:none}
+
